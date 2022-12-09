@@ -1,4 +1,4 @@
-Projeto Tela de Login!
+<h2 align="center">Projeto Tela de Login!</h2>
 
 ##
 
