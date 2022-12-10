@@ -5,5 +5,5 @@
 <p align="center">Estou aprendendo a programar e estou muito feliz com o meu desenvolvimento.</p>
 
 <div align="center">
-<img src="img/Captura de tela de 2022-12-09 11-15-17.png">
+<img src="img/Captura de tela de 2022-12-10 01-18-01.png">
 </div>
